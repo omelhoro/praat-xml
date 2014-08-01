@@ -1,0 +1,14 @@
+pom.xml
+*jar
+*.js
+*map
+/lib/
+/classes/
+/out/
+/repl/
+/static/syllable/out/
+/bin/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
