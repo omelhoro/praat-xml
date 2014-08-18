@@ -1,5 +1,6 @@
 (ns globals
  (:require
+                         
        [goog.string :as gstring]  
                  [goog.string.format]
 ;          #+cljs [goog.string.trim]
