@@ -1,12 +1,10 @@
 pom.xml
 *jar
-*.js
 *map
 /lib/
 /classes/
-/out/
 /repl/
-/static/syllable/out/
+/out/
 /bin/
 /target/
 .lein-deps-sum

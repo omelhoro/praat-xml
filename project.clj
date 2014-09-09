@@ -52,10 +52,10 @@
     :builds [{:id "syll-app"
               :source-paths ["src/cljs" "target/classes/cljs" ]
               :compiler {
-                :output-to "static/praatxml/praatxml.js"
-                :output-dir "static/praatxml/out"
+                :output-to "./praatxml.js"
+                :output-dir "./out"
                 :optimizations :whitespace
-                :source-map "static/praatxml/praatxml.js.map"}
+                :source-map "./praatxml.js.map"}
               }]}
 
   :cljx {:builds [{:source-paths ["src/cljx"]

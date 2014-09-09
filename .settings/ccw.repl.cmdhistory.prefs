@@ -1,2 +1,0 @@
-cmdhistory=["foo" "(update)" "prestep" "ss" "prestep" "t0" "(vector (1 2))" "(vector '(1 2))" "(map \#(%) (1 2))" "xml" "prestep" "t" "(count t)" "foo" "(str 44)" "(str \\"asd\\")" "(str 1)" "(.substring \\"asd\\" 1 2)"]
-eclipse.preferences.version=1
