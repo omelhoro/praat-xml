@@ -2,6 +2,7 @@
 This is an app for converting Praats native format -textgrid- to xml which can be used more widely than textgrids.
 There is no backward conversion from xml to textgrid. Sources are provided as .cljx, the main files in src/cljs and src/clj are for web and desktop respective. 
 I used this in a Phonetic project for writing specialized, high-performance scripts in Python to extract the data.
+
 ## Usage
 Just compile the jar or use it under http://ifisher.pythonanywhere.com/projects/praatxml.
 Then:
@@ -13,11 +14,11 @@ or for directories:
 The app writes in same dir as the parsed file  - only with a .xml ending.
 
 
-FIXME
-+For now supports only interval tiers
-+disable pretty print on demand
-+Needs some tests
-+Web app should also read uploads as input.
+##FIXME
+- For now supports only interval tiers
+- disable pretty print on demand
+- Needs some tests
+- Web app should also read uploads as input.
 
 
 ## License
